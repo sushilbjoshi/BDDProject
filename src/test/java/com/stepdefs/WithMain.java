@@ -12,7 +12,7 @@ public class WithMain {
 		System.setProperty("webdriver.chrome.driver", "D:\\chromedriver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		
-		driver.get("https://www.google.com/");
+		driver.get("https://www.amazon.in/");
 		
 		
 		
