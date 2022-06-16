@@ -3,7 +3,7 @@ Feature: Goibibo
 background:
 Given user should launch url
 
-@Smoke
+@Regression
 Scenario Outline: FlightSearch
 
 Given user should be on flights page

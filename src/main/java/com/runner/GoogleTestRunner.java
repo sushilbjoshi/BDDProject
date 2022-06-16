@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 	features="src/main/java/com/feature",
 	glue="com.stepdefs",
 	plugin= "html:test-output",
-	tags = {"@Regression"},
+	tags = {"@Smoke"},
 	dryRun= false	
 )
 
